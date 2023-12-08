@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "pokemon",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
